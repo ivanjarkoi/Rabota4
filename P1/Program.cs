@@ -16,5 +16,6 @@ namespace P1
         {
             Console.WriteLine("x" + x);
         }
+        //gr
     }
 }
